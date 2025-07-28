@@ -1,6 +1,6 @@
-<!-- Terminal "Hello world!" GIF -->
+<!-- Hello World terminal-style GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" alt="Hello World Terminal" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Hello world terminal" />
 </p>
 
 <h1 align="center">السلام عليكم ورحمة الله وبركاته 👋🏻❤️🕊️</h1>
