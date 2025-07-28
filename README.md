@@ -24,8 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android" />
   <!-- Photoshop -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop" />
-  <!-- PicsArt -->
-  <img src="https://github.com/islom-nurmukhammadov/assets/blob/main/picsart.png?raw=true" width="40" height="40" alt="PicsArt" />
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
   <!-- REST API -->
@@ -36,13 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <!-- Android Studio -->
-  <img src="https://github.com/islom-nurmukhammadov/assets/blob/main/android-studio.png?raw=true" width="40" height="40" alt="Android Studio" />
   <!-- Figma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
   <!-- Canva -->
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" height="40" alt="Canva" />
-  <!-- Adobe Audition -->
-  <img src="https://github.com/islom-nurmukhammadov/assets/blob/main/audition.png?raw=true" width="40" height="40" alt="Adobe Audition" />
 </p>
 
