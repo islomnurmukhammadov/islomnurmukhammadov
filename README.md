@@ -10,9 +10,9 @@
 ---
 ### 👋 Hi there! I'm Islom.
 
-- • Flutter Developer  
-- • Mathematics and Physics Student  
-- • Islamic and a Writer for the Heart  
+- Flutter Developer  
+- Mathematics and Physics Student  
+- Islamic and a Writer for the Heart  
 
 
 ### 🧑‍💻 Languages and Tools:
