@@ -14,5 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/capcut.png" width="40" height="40" alt="CapCut" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/CapCut_Logo.png" width="40" height="40" alt="CapCut" />
+
 </p>
