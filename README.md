@@ -45,7 +45,6 @@ skills:
 
 currently_learning:
   - Clean Architecture
-  - Backend Development
 ```
 
 ---
